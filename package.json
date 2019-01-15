@@ -1,0 +1,18 @@
+{
+  "name": "p5ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/p5": "^0.7.1",
+    "help": "^3.0.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
