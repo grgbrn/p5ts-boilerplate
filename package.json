@@ -1,13 +1,26 @@
 {
-  "name": "p5ts",
-  "version": "1.0.0",
-  "description": "",
+  "name": "p5ts-boilerplate",
+  "version": "0.1.0",
+  "description": "Simple boilerplate for TypeScript + p5.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "live-server --watch=build"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grgbrn/p5ts-boilerplate.git"
+  },
+  "keywords": [
+    "typescript",
+    "p5js"
+  ],
+  "author": "Greg Brown <grgbrn@gmail.com>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grgbrn/p5ts-boilerplate/issues"
+  },
+  "homepage": "https://github.com/grgbrn/p5ts-boilerplate#readme",
   "dependencies": {
     "@types/p5": "^0.7.1"
   },
